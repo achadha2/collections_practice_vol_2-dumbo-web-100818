@@ -3,8 +3,11 @@ i = 0
 
 while i < array.length
 array[i].start_with?("r")
- end 
+end 
 end
+
+hello = ["roloo", "rec"]
+p begins_with_r(hello)
 
 def contain_a(array)
   
