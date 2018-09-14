@@ -8,7 +8,10 @@ i += 1
 end == TRUE
 
 print "happy"
+else 
 
+puts "sad"
+end
 
 end
 
