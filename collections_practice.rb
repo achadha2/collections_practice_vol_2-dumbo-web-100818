@@ -16,7 +16,7 @@ end
 
 end
 
-hello = ["roloo", "rec"]
+hello = ["oloo", "rec"]
 begins_with_r(hello)
 
 def contain_a(array)
