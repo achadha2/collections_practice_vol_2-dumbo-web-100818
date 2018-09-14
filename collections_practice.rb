@@ -7,7 +7,7 @@ array[i].start_with?("r")
 i += 1
 end == TRUE
 
-print "happy"
+puts "happy"
 else 
 
 puts "sad"
