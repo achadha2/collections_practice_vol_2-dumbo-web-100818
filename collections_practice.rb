@@ -1,12 +1,13 @@
 def begins_with_r(array)
-if 
-  
+
+array = []   
 i = 0
 
 while i < array.length
-array[i].start_with?("r")
+if array[i].start_with?("r") == true
+  
 i += 1
-end == TRUE
+end
 
 puts "happy"
 else 
